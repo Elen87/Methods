@@ -1,4 +1,5 @@
 ## Методы
+[![NodeJS with Webpack](https://github.com/Elen87/Methods/actions/workflows/webpack.yml/badge.svg)](https://github.com/Elen87/Methods/actions/workflows/webpack.yml)
 
 ### Легенда
 
